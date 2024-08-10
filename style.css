@@ -11,3 +11,10 @@
     margin: 8px;
     box-shadow: 1px 1px 15px 1px green;
   }
+
+  @media only screen and (max-width: 300px) { 
+    .box {
+      flex-basis: 100%;
+    }
+  }
+  
