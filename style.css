@@ -19,7 +19,7 @@ body {
 
   .box:hover {
     transform: scale(1.1); /* Scale the image to 110% */
-    transition: transform 0.3s ease-in;
+    transition: transform 0.8s linear;
     }
 
   @media only screen and (max-width: 300px) { 
